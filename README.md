@@ -1,6 +1,10 @@
 # TenorAPIKit
 
 TenorAPIKit provides trending GIFs, trending tags, trending categories, GIF search, autocomplete results, and search suggestions from the Tenor API.
+
+## Requirements
+- iOS 15.0 or later
+
 ## Installation
 ### Installation from Xcode
 - Open Your Project from Xcode
