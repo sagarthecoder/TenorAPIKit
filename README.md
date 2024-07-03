@@ -56,7 +56,7 @@ service.getAutocompleteTags(key: key, query: "exc", limit: 5) { results in
        /// autocomplete results
 }
 ```
-```
+`
 Note : pos means pagination key. pos = "0" means no pagination exists.
  If pos is set as nil then pagination won't work.
-```
+`
